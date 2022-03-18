@@ -15,4 +15,4 @@ The majority of the HTML/CSS foundation was developed by the course instructor. 
 - Click  *New Game* to play again!
 
 Netlify deployment status:
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fb7c5188-a78d-439a-bf8d-594d078fa656/deploy-status)](https://app.netlify.com/sites/chair-shop-isaacg/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c28c0e79-b047-4c5e-9d2f-1bd3e51ab7a4/deploy-status)](https://app.netlify.com/sites/pig-game-isaacg/deploys)
